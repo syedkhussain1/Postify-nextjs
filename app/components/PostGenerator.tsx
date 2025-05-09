@@ -138,7 +138,7 @@ const PostGenerator = () => {
         </select>
 
         <button className={styles.button} type="submit" disabled={disableSubmitButton || loading}>
-          {loading ? 'Generating...' : 'Generate your tweet →'}
+          {loading ? 'Generating...' : 'Generate your post →'}
         </button>
       </form>
       {loading && <LoadingSpinner />}
