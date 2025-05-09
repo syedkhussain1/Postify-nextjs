@@ -2,9 +2,9 @@
 
 This app generates engaging tweets for your brand.
 
-This project is built using Nextjs. It utilizes the OpenAI GPT for chat completion, and Dall-E for image generation.
+This project is built using Nextjs. It utilizes the OpenAI GPT for chat completion.
 
-<img src="tweetify_demo.gif" alt="app demo" width=600>
+<img src="postify_demo.gif" alt="app demo" width=600>
 
 ## Getting Started
 
@@ -25,3 +25,4 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Deploy on Vercel
+URL-
