@@ -43,9 +43,9 @@ const PostGenerator = () => {
   return (
     <div className={styles.container}>
       <div className={styles.header}>
-        <Image src="/Logo_small.png" alt="SuperViral.ai logo" width="200" height="200" />
-        <h1>Generate your new post using Postify</h1>
+        <Image src="/sh_new_logo.jpeg" alt="SuperViral.ai logo" width="200" height="200" />
       </div>
+      <h1>Generate your new post using Postify</h1>
       <form className={styles.form} onSubmit={onSubmit}>
         <label htmlFor="bioInput" className={styles.label}>1. Enter your topic or interest</label>
         <textarea
